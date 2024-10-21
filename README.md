@@ -4,10 +4,10 @@ This is a simple subscription platform built with Laravel that allows users to s
 
 ## Features
 
-- Create websites
+- Create websites entries
 - Subscribe users to websites
 - Create posts for websites
-- Send email notifications to subscribers when a new post is created
+- Send email notifications to subscribers about new post
 
 ## Requirements
 
@@ -21,7 +21,7 @@ This is a simple subscription platform built with Laravel that allows users to s
 
    ```bash
    git clone https://github.com/Shafayat/subscription.git
-   cd subscription-platform
+   cd subscription
  
 ### Install dependencies:
     
